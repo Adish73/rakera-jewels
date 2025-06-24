@@ -102,7 +102,7 @@ export const Header = () => {
                 </svg>
               </button>
             </div>
-          </div>
+          </nav>
 
           {/* Mobile Menu */}
           {isMenuOpen && (

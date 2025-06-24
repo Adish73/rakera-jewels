@@ -1,41 +1,25 @@
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { 
-  Header, 
-  HeroSection, 
-  CollectionsSection, 
-  FlagshipSection, 
-  HighJewellerySection, 
-  LifestyleSection, 
-  AsSeenOnSection, 
-  NewsletterSection, 
-  Footer 
-} from './components';
-
-const Home = () => {
-  return (
-    <div className="min-h-screen">
-      <Header />
-      <HeroSection />
-      <CollectionsSection />
-      <FlagshipSection />
-      <HighJewellerySection />
-      <LifestyleSection />
-      <AsSeenOnSection />
-      <NewsletterSection />
-      <Footer />
-    </div>
-  );
-};
+  HomePage, 
+  JewelleryPage, 
+  HighJewelleryPage, 
+  AboutPage, 
+  StoresPage, 
+  ContactPage 
+} from './pages';
 
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home />}>
-            <Route index element={<Home />} />
-          </Route>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/jewellery" element={<JewelleryPage />} />
+          <Route path="/high-jewellery" element={<HighJewelleryPage />} />
+          <Route path="/about" element={<AboutPage />} />
+          <Route path="/stores" element={<StoresPage />} />
+          <Route path="/contact" element={<ContactPage />} />
         </Routes>
       </BrowserRouter>
     </div>

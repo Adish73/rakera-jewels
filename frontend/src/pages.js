@@ -95,7 +95,7 @@ export const HomePage = () => {
                 </p>
                 <Link 
                   to="/stores"
-                  className="self-start bg-amber-600 hover:bg-amber-700 px-8 py-3 text-xs font-light tracking-[0.2em] transition-all duration-300 border border-amber-500"
+                  className="self-start bg-gold hover:bg-light-gold text-oxford-blue px-8 py-3 text-xs font-light tracking-[0.2em] transition-all duration-300 border border-gold"
                 >
                   VISIT OUR BOUTIQUE
                 </Link>

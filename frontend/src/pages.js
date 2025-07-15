@@ -91,7 +91,7 @@ export const HomePage = () => {
               <div className="relative z-10 h-full flex flex-col justify-end p-8 text-white">
                 <h3 className="text-2xl md:text-3xl font-serif font-light mb-4 tracking-wide">THE FLAGSHIP COLLECTION</h3>
                 <p className="text-sm md:text-base mb-6 font-light leading-relaxed opacity-90">
-                  Visit our Flagship Store. Immerse yourself in the luxurious world of Rakhera Jewels where every piece tells a story.
+                  Visit our Flagship Store. Immerse yourself in the luxurious world of Rakera Jewels where every piece tells a story.
                 </p>
                 <Link 
                   to="/stores"

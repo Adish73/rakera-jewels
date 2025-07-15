@@ -203,7 +203,7 @@ export const JewelleryPage = () => {
           <h1 className="text-4xl md:text-6xl font-serif font-light mb-8 text-oxford-blue tracking-wide">
             JEWELLERY COLLECTIONS
           </h1>
-          <p className="text-lg text-stone-600 max-w-3xl mx-auto leading-relaxed font-light">
+          <p className="text-lg text-navy-blue max-w-3xl mx-auto leading-relaxed font-light">
             Discover our exquisite collections where each piece tells a story of heritage, 
             craftsmanship, and timeless beauty.
           </p>

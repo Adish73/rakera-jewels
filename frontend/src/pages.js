@@ -140,7 +140,7 @@ export const HomePage = () => {
       {/* As Seen On */}
       <section className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-6 text-center">
-          <h2 className="text-2xl font-serif font-light mb-12 text-stone-800 tracking-[0.2em]">
+          <h2 className="text-2xl font-serif font-light mb-12 text-oxford-blue tracking-[0.2em]">
             AS SEEN ON
           </h2>
           

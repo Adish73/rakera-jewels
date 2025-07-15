@@ -53,7 +53,7 @@ export const HomePage = () => {
       </section>
 
       {/* Collections Grid */}
-      <section className="py-16 bg-stone-50">
+      <section className="py-16 bg-blue-50">
         <div className="max-w-7xl mx-auto px-6">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* Collection 1 */}

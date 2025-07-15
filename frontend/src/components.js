@@ -126,7 +126,7 @@ export const Header = () => {
                         </svg>
                       </button>
                       
-                      {iFemaleOpen && (
+                      {isFemaleOpen && (
                         <div className="absolute left-full top-0 w-40 bg-oxford-blue border border-navy-blue shadow-xl">
                           <Link to="/female/rings" className="block px-4 py-2 hover:bg-navy-blue hover:text-light-gold transition-colors text-sm font-light" onClick={closeAllMenus}>Rings</Link>
                           <Link to="/female/bracelets" className="block px-4 py-2 hover:bg-navy-blue hover:text-light-gold transition-colors text-sm font-light" onClick={closeAllMenus}>Bracelets</Link>

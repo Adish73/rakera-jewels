@@ -57,7 +57,7 @@ export const HomePage = () => {
         <div className="max-w-7xl mx-auto px-6">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* Collection 1 */}
-            <div className="group relative overflow-hidden bg-stone-100 h-96 md:h-[500px]">
+            <div className="group relative overflow-hidden bg-blue-100 h-96 md:h-[500px]">
               <div 
                 className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-105"
                 style={{ backgroundImage: `url('https://images.pexels.com/photos/7078360/pexels-photo-7078360.jpeg')` }}

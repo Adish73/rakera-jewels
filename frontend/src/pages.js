@@ -436,8 +436,8 @@ export const AboutPage = () => {
             </div>
 
             <div className="text-center">
-              <div className="w-20 h-20 bg-amber-100 rounded-full flex items-center justify-center mx-auto mb-6">
-                <span className="text-amber-600 text-2xl">◈</span>
+              <div className="w-20 h-20 bg-light-gold/20 rounded-full flex items-center justify-center mx-auto mb-6">
+                <span className="text-gold text-2xl">◈</span>
               </div>
               <h3 className="text-xl font-serif font-light mb-4 text-stone-800">Authenticity</h3>
               <p className="text-stone-600 font-light leading-relaxed">

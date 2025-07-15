@@ -29,7 +29,7 @@ export const HomePage = () => {
 
         <div className="absolute bottom-40 left-1/2 transform -translate-x-1/2">
           <div className="flex items-center justify-center">
-            <div className="w-20 h-4 bg-gradient-to-r from-amber-400 to-amber-600 rounded-full shadow-lg"></div>
+            <div className="w-20 h-4 bg-gradient-to-r from-gold to-light-gold rounded-full shadow-lg"></div>
           </div>
           <div className="flex justify-center mt-1">
             <div className="w-4 h-20 bg-gradient-to-b from-gold to-light-gold rounded-full shadow-lg"></div>

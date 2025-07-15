@@ -388,7 +388,7 @@ export const AboutPage = () => {
               />
             </div>
             <div className="order-1 md:order-2">
-              <h2 className="text-3xl font-serif font-light mb-6 text-stone-800 tracking-wide">
+              <h2 className="text-3xl font-serif font-light mb-6 text-oxford-blue tracking-wide">
                 Master Artisans
               </h2>
               <p className="text-stone-600 leading-relaxed font-light mb-4">

@@ -485,7 +485,7 @@ export const StoresPage = () => {
       <Header />
       
       {/* Hero Section */}
-      <section className="py-20 bg-stone-100">
+      <section className="py-20 bg-blue-50">
         <div className="max-w-7xl mx-auto px-6 text-center">
           <h1 className="text-4xl md:text-6xl font-serif font-light mb-8 text-stone-800 tracking-wide">
             STORE LOCATOR

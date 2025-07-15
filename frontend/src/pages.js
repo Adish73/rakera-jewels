@@ -15,7 +15,7 @@ export const HomePage = () => {
           backgroundImage: `linear-gradient(rgba(139,69,19,0.3), rgba(160,82,45,0.2)), url('https://images.unsplash.com/photo-1643300866907-032b3baeeb1f')`
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-stone-900/20 to-stone-900/40"></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-oxford-blue/20 to-oxford-blue/40"></div>
         
         {/* Decorative jewelry elements */}
         <div className="absolute top-32 left-1/2 transform -translate-x-1/2">

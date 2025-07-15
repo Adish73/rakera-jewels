@@ -106,7 +106,7 @@ export const HomePage = () => {
       </section>
 
       {/* High Jewellery Showcase */}
-      <section className="py-20 bg-gradient-to-b from-stone-100 to-stone-200">
+      <section className="py-20 bg-gradient-to-b from-blue-50 to-blue-100">
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-12">
             <img 

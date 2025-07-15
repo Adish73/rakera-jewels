@@ -45,7 +45,7 @@ export const HomePage = () => {
           </p>
           <Link 
             to="/jewellery"
-            className="inline-block bg-amber-600 hover:bg-amber-700 text-white px-8 py-3 text-xs font-light tracking-[0.2em] transition-all duration-300 border border-amber-500"
+            className="inline-block bg-gold hover:bg-light-gold text-oxford-blue px-8 py-3 text-xs font-light tracking-[0.2em] transition-all duration-300 border border-gold"
           >
             DISCOVER MORE
           </Link>

@@ -365,7 +365,7 @@ export const AboutPage = () => {
                 Rakera Jewels was founded on the principle that jewelry should be more than mere adornment—
                 it should be a celebration of heritage, a work of art, and a treasure to be passed down through generations.
               </p>
-              <p className="text-stone-600 leading-relaxed font-light">
+              <p className="text-navy-blue leading-relaxed font-light">
                 Our artisans combine centuries-old techniques with contemporary design sensibilities, 
                 creating pieces that honor tradition while embracing innovation.
               </p>

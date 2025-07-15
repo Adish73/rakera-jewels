@@ -177,7 +177,7 @@ export const JewelleryPage = () => {
       title: "Heritage Collection",
       description: "Timeless pieces inspired by ancient artistry and traditional craftsmanship.",
       image: "https://images.unsplash.com/photo-1543295204-2ae345412549",
-      pieces: ["Calligraphy Rings", "Heritage Necklaces", "Traditional Bracelets", "Artisan Earrings"]
+      pieces: ["Heritage Rings", "Heritage Necklaces", "Traditional Bracelets", "Artisan Earrings"]
     },
     {
       title: "Contemporary Collection", 

@@ -361,7 +361,7 @@ export const AboutPage = () => {
               <h2 className="text-3xl font-serif font-light mb-6 text-oxford-blue tracking-wide">
                 Heritage & Tradition
               </h2>
-              <p className="text-stone-600 leading-relaxed font-light mb-4">
+              <p className="text-navy-blue leading-relaxed font-light mb-4">
                 Rakera Jewels was founded on the principle that jewelry should be more than mere adornment—
                 it should be a celebration of heritage, a work of art, and a treasure to be passed down through generations.
               </p>

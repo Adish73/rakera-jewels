@@ -655,7 +655,7 @@ export const ContactPage = () => {
 
                 <div>
                   <h3 className="text-lg font-serif font-light mb-2 text-stone-800">Email</h3>
-                  <p className="text-stone-600 font-light">info@rakherajewels.com</p>
+                  <p className="text-stone-600 font-light">info@rakerajewels.com</p>
                 </div>
 
                 <div>

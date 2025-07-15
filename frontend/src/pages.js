@@ -231,7 +231,7 @@ export const JewelleryPage = () => {
                     <li key={pieceIndex} className="text-sm text-stone-500 font-light">• {piece}</li>
                   ))}
                 </ul>
-                <button className="bg-amber-600 hover:bg-amber-700 text-white px-6 py-2 text-xs font-light tracking-[0.2em] transition-all duration-300 border border-amber-500">
+                <button className="bg-gold hover:bg-light-gold text-oxford-blue px-6 py-2 text-xs font-light tracking-[0.2em] transition-all duration-300 border border-gold">
                   VIEW COLLECTION
                 </button>
               </div>

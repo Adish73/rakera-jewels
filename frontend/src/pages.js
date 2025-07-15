@@ -625,7 +625,7 @@ export const ContactPage = () => {
                 </div>
                 <button
                   type="submit"
-                  className="bg-amber-600 hover:bg-amber-700 text-white px-8 py-3 text-xs font-light tracking-[0.2em] transition-all duration-300 border border-amber-500"
+                  className="bg-gold hover:bg-light-gold text-oxford-blue px-8 py-3 text-xs font-light tracking-[0.2em] transition-all duration-300 border border-gold"
                 >
                   SEND MESSAGE
                 </button>

@@ -516,7 +516,7 @@ export const StoresPage = () => {
                   <p>{store.phone}</p>
                   <p className="text-amber-600">{store.hours}</p>
                 </div>
-                <button className="mt-6 bg-amber-600 hover:bg-amber-700 text-white px-6 py-2 text-xs font-light tracking-[0.2em] transition-all duration-300 border border-amber-500">
+                <button className="mt-6 bg-gold hover:bg-light-gold text-oxford-blue px-6 py-2 text-xs font-light tracking-[0.2em] transition-all duration-300 border border-gold">
                   GET DIRECTIONS
                 </button>
               </div>

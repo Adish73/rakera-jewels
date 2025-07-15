@@ -121,7 +121,7 @@ export const HomePage = () => {
               TALES OF HERITAGE - HIGH JEWELLERY COLLECTION
             </h2>
             
-            <p className="text-base text-stone-600 mb-8 max-w-3xl mx-auto leading-relaxed font-light">
+            <p className="text-base text-navy-blue mb-8 max-w-3xl mx-auto leading-relaxed font-light">
               Our High Jewellery collection represents the pinnacle of luxury craftsmanship. 
               Each piece is meticulously handcrafted using the finest materials and techniques 
               passed down through generations of master artisans.

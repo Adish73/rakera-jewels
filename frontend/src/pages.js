@@ -117,7 +117,7 @@ export const HomePage = () => {
           </div>
           
           <div className="text-center">
-            <h2 className="text-4xl md:text-5xl font-serif font-light mb-8 text-stone-800 tracking-wide">
+            <h2 className="text-4xl md:text-5xl font-serif font-light mb-8 text-oxford-blue tracking-wide">
               TALES OF HERITAGE - HIGH JEWELLERY COLLECTION
             </h2>
             

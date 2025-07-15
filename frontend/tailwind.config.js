@@ -5,7 +5,14 @@ module.exports = {
     "./public/index.html"
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'oxford-blue': '#001D3D',
+        'navy-blue': '#003566',
+        'gold': '#CCA000',
+        'light-gold': '#F0CB46',
+      }
+    },
   },
   plugins: [],
 };

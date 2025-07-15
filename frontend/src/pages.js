@@ -396,7 +396,7 @@ export const AboutPage = () => {
                 to perfecting their craft. Their expertise, passed down through generations, ensures that 
                 each creation meets the highest standards of excellence.
               </p>
-              <p className="text-stone-600 leading-relaxed font-light">
+              <p className="text-navy-blue leading-relaxed font-light">
                 From the initial design concept to the final polish, every step in our process is guided 
                 by an unwavering commitment to quality and attention to detail.
               </p>

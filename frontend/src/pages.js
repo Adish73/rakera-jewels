@@ -80,7 +80,7 @@ export const HomePage = () => {
             </div>
 
             {/* Collection 2 */}
-            <div className="group relative overflow-hidden bg-stone-100 h-96 md:h-[500px]">
+            <div className="group relative overflow-hidden bg-blue-100 h-96 md:h-[500px]">
               <div 
                 className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-105"
                 style={{ backgroundImage: `url('https://images.pexels.com/photos/7629856/pexels-photo-7629856.jpeg')` }}

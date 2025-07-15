@@ -358,7 +358,7 @@ export const AboutPage = () => {
         <div className="max-w-4xl mx-auto px-6">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
             <div>
-              <h2 className="text-3xl font-serif font-light mb-6 text-stone-800 tracking-wide">
+              <h2 className="text-3xl font-serif font-light mb-6 text-oxford-blue tracking-wide">
                 Heritage & Tradition
               </h2>
               <p className="text-stone-600 leading-relaxed font-light mb-4">

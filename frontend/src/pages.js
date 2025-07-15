@@ -145,20 +145,20 @@ export const HomePage = () => {
           </h2>
           
           <div className="grid grid-cols-2 md:grid-cols-5 gap-8 items-center opacity-60">
-            <div className="h-16 bg-stone-100 border border-stone-200 flex items-center justify-center">
-              <span className="font-serif text-stone-600 text-sm tracking-wider">VOGUE</span>
+            <div className="h-16 bg-blue-50 border border-blue-200 flex items-center justify-center">
+              <span className="font-serif text-navy-blue text-sm tracking-wider">VOGUE</span>
             </div>
-            <div className="h-16 bg-stone-100 border border-stone-200 flex items-center justify-center">
-              <span className="font-serif text-stone-600 text-sm tracking-wider">BAZAAR</span>
+            <div className="h-16 bg-blue-50 border border-blue-200 flex items-center justify-center">
+              <span className="font-serif text-navy-blue text-sm tracking-wider">BAZAAR</span>
             </div>
-            <div className="h-16 bg-stone-100 border border-stone-200 flex items-center justify-center">
-              <span className="font-serif text-stone-600 text-sm tracking-wider">ELLE</span>
+            <div className="h-16 bg-blue-50 border border-blue-200 flex items-center justify-center">
+              <span className="font-serif text-navy-blue text-sm tracking-wider">ELLE</span>
             </div>
-            <div className="h-16 bg-stone-100 border border-stone-200 flex items-center justify-center">
-              <span className="font-serif text-stone-600 text-sm tracking-wider">TATLER</span>
+            <div className="h-16 bg-blue-50 border border-blue-200 flex items-center justify-center">
+              <span className="font-serif text-navy-blue text-sm tracking-wider">TATLER</span>
             </div>
-            <div className="h-16 bg-stone-100 border border-stone-200 flex items-center justify-center">
-              <span className="font-serif text-stone-600 text-sm tracking-wider">T&C</span>
+            <div className="h-16 bg-blue-50 border border-blue-200 flex items-center justify-center">
+              <span className="font-serif text-navy-blue text-sm tracking-wider">T&C</span>
             </div>
           </div>
         </div>

@@ -21,9 +21,9 @@ export const HomePage = () => {
         <div className="absolute top-32 left-1/2 transform -translate-x-1/2">
           <div className="w-4 h-20 bg-gradient-to-b from-gold to-light-gold rounded-full shadow-lg"></div>
           <div className="flex justify-center mt-2 space-x-1">
-            <div className="w-3 h-3 bg-purple-500 rounded-full shadow-md"></div>
-            <div className="w-3 h-3 bg-amber-500 rounded-full shadow-md"></div>
-            <div className="w-3 h-3 bg-purple-500 rounded-full shadow-md"></div>
+            <div className="w-3 h-3 bg-oxford-blue rounded-full shadow-md"></div>
+            <div className="w-3 h-3 bg-gold rounded-full shadow-md"></div>
+            <div className="w-3 h-3 bg-oxford-blue rounded-full shadow-md"></div>
           </div>
         </div>
 

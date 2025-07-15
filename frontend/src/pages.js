@@ -68,7 +68,7 @@ export const HomePage = () => {
               <div className="relative z-10 h-full flex flex-col justify-end p-8 text-white">
                 <h3 className="text-2xl md:text-3xl font-serif font-light mb-4 tracking-wide">THE RAKERA X ARTISAN COLLECTION</h3>
                 <p className="text-sm md:text-base mb-6 font-light leading-relaxed opacity-90">
-                  Discover the Calligraphy Collection. Luxury meets heritage in this exclusive collaboration celebrating the art of traditional craftsmanship.
+                  Discover the Heritage Collection. Luxury meets heritage in this exclusive collaboration celebrating the art of traditional craftsmanship.
                 </p>
                 <Link 
                   to="/jewellery"
